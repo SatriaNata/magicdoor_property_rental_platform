@@ -55,13 +55,14 @@ npm install
 ```md
 ## Environment Variables
 
-Buat file `.env` di root project:
+create new file `.env` di root project:
 
 ```bash
 PORT=5001
 VITE_API_BASE_URL=http://localhost:5001
 
 Run the local development server:
+```
 
 ```bash
 npm start
